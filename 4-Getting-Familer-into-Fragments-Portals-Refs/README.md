@@ -1,4 +1,4 @@
-# Let's use prevois project to get an idea about Faagemnets, Portals and Refs
+# Let's use previous project to get an idea about Faagemnets, Portals and Refs.
 
 ## What you can learn from this project?
 - React Fragements
